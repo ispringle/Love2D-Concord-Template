@@ -1,0 +1,6 @@
+[submodule "modules/lovedebug"]
+	path = modules/lovedebug
+	url = git@github.com:flamendless/lovedebug.git
+[submodule "modules/Concord"]
+	path = modules/Concord
+	url = git@github.com:Tjakka5/Concord
